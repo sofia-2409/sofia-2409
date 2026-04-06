@@ -5,8 +5,8 @@
 ### 👩‍🎓 Sobre mim
 
 - **Nome:** Sofia de Amaral Gola Rosa  
-- **Curso:** [Insira o nome do seu curso aqui]  
-- **Componente que mais gostei no curso:** [Escreva aqui o que você mais gostou (ex: Desenvolvimento Web, Lógica de Programação, etc.)]
+- **Curso:** [DS]  
+
 
 ### 🎯 O que vamos trabalhar esse ano
 
